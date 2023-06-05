@@ -15,10 +15,10 @@
         "netflex/signups": "*"
     },
     "require": {
-        "netflex/structures": "^4.32",
-        "netflex/customers": "^4.32",
-        "netflex/query-builder": "^4.32",
-        "netflex/support": "^4.32",
+        "netflex/structures": "^4.31.5",
+        "netflex/customers": "^4.31.5",
+        "netflex/query-builder": "^4.31.5",
+        "netflex/support": "^4.31.5",
         "php": "^7.4|^8.0"
     },
     "extra": {
