@@ -156,7 +156,6 @@ class Signup implements JsonSerializable, Jsonable
         return null;
     }
 
-    #[\ReturnTypeWillChange]
     public function jsonSerialize()
     {
         return $this->signup;
