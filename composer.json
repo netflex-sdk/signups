@@ -15,15 +15,15 @@
         "netflex/signups": "*"
     },
     "require": {
-        "netflex/structures": "^6.0",
-        "netflex/customers": "^6.0",
-        "netflex/query-builder": "^6.0",
-        "netflex/support": "^6.0",
-        "php": "^8.2"
+        "netflex/structures": "^4.33",
+        "netflex/customers": "^4.33",
+        "netflex/query-builder": "^4.33",
+        "netflex/support": "^4.33",
+        "php": "^7.4|^8.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "6.0.x-dev"
+            "dev-master": "4.33.x-dev"
         }
     }
 }
