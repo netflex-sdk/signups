@@ -11,9 +11,6 @@
             "Netflex\\Signups\\": ""
         }
     },
-    "replace": {
-        "netflex/signups": "*"
-    },
     "require": {
         "netflex/structures": "^6.0",
         "netflex/customers": "^6.0",
